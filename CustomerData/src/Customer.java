@@ -15,5 +15,19 @@ public class Customer {
         return this.email;
     }
 
+    //No-Argument Constructor
+    public Customer(){
+        this("Nobody", "nobody@gmail.com");
+    }
+
+    public Customer(String name, String email){
+        this(name,1251,email);
+    }
+
+    public Customer(String name, long creditLimit, String email){
+        this.name = name;
+        this.creditLimit = creditLimit;
+        this.email = email;
+    }
     
 }
