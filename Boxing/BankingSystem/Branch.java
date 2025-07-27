@@ -38,7 +38,7 @@ public class Branch {
     return false;
   }
 
-  public Customer findCustomer(String nameOfCustomer) {
+  private Customer findCustomer(String nameOfCustomer) {
     for (int i = 0; i < this.customers.size(); i++) {
       Customer customerInList = this.customers.get(i);
       if (customerInList.getName().equals(nameOfCustomer)) {
