@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClass/AbstractClass.iml" filepath="$PROJECT_DIR$/AbstractClass/AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/Inheritance/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BillBurger/BillBurger.iml" filepath="$PROJECT_DIR$/BillBurger/BillBurger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/CustomerData/CustomerData.iml" filepath="$PROJECT_DIR$/Inheritance/CustomerData/CustomerData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/EmployeeData/EmployeeData.iml" filepath="$PROJECT_DIR$/Inheritance/EmployeeData/EmployeeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOPS.iml" filepath="$PROJECT_DIR$/Java-OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+    </modules>
+  </component>
+</project>
