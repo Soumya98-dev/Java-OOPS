@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Inheritance/CustomerData/CustomerData.iml" filepath="$PROJECT_DIR$/Inheritance/CustomerData/CustomerData.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/EmployeeData/EmployeeData.iml" filepath="$PROJECT_DIR$/Inheritance/EmployeeData/EmployeeData.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-OOPS.iml" filepath="$PROJECT_DIR$/Java-OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
     </modules>
